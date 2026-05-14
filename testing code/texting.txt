@@ -1,0 +1,7 @@
+Testing Completed
+
+- Email Validation Checked
+- Password Validation Checked
+- Empty Input Validation Checked
+- Login Form Tested
+- Signup Form Tested
